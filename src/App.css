@@ -1,7 +1,7 @@
 body {
   background: url("./img/background.jpg");
   width: 100vw;
-  min-height: 100vh;
+  height: 100svh;
   padding: 40px 0;
   font-size: 1.25rem;
   line-height: 1.75rem;
