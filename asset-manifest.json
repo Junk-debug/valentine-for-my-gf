@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/valentine-for-my-gf/static/css/main.15dcc694.css",
+    "main.css": "/valentine-for-my-gf/static/css/main.6d0848ea.css",
     "main.js": "/valentine-for-my-gf/static/js/main.320b6407.js",
     "static/media/smile-cat.gif": "/valentine-for-my-gf/static/media/smile-cat.778ff1542b654fbdd824.gif",
     "static/media/background.jpg": "/valentine-for-my-gf/static/media/background.84fcd360a2b63d555e96.jpg",
@@ -10,11 +10,11 @@
     "static/media/happy-cat3.gif": "/valentine-for-my-gf/static/media/happy-cat3.19e07bf19cb2ca3f0ade.gif",
     "static/media/happy-cat1.gif": "/valentine-for-my-gf/static/media/happy-cat1.ea512fcd742d33294359.gif",
     "index.html": "/valentine-for-my-gf/index.html",
-    "main.15dcc694.css.map": "/valentine-for-my-gf/static/css/main.15dcc694.css.map",
+    "main.6d0848ea.css.map": "/valentine-for-my-gf/static/css/main.6d0848ea.css.map",
     "main.320b6407.js.map": "/valentine-for-my-gf/static/js/main.320b6407.js.map"
   },
   "entrypoints": [
-    "static/css/main.15dcc694.css",
+    "static/css/main.6d0848ea.css",
     "static/js/main.320b6407.js"
   ]
 }
